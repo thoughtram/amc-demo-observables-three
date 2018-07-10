@@ -1,0 +1,9 @@
+{
+  "name": "typescript-yc7dnx",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/typescript-yc7dnx",
+  "dependencies": {
+    "rxjs": "6.2.1"
+  },
+  "version": "1.0.0"
+}
